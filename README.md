@@ -97,9 +97,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Jeudi 29 janvier 2026 à 18:30 | [data-for-good](data-for-good/) | [Lancement de la saison 14 Data For Good](https://www.eventbrite.fr/e/1977881303221) | Le Node, 12 Rue des Faussets  33000 Bordeaux |
 | Lundi 02 février 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjcdbdb/) | 9 Rue de Condé, Bordeaux |
 | Lundi 02 février 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/311567889/) | 9 Rue de Condé, Bordeaux |
+| Mercredi 04 février 2026 à 18:00 | [mtg-bordeaux](mtg-bordeaux/) | [IA : Productivité, Données et réalité](https://www.meetup.com/mtg-bordeaux/events/312868461/) | 353 Boulevard du Président Wilson 7ème étage, Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
