@@ -97,9 +97,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Lundi 02 mars 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjcfbdb/) | 9 Rue de Condé, Bordeaux |
-| Lundi 02 mars 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/311567890/) | 9 Rue de Condé, Bordeaux |
 | Mardi 03 mars 2026 à 19:00 | [apero-web](apero-web/) | [🍷🍻 Apéro Web Bordeaux](https://www.meetup.com/apero-web-bordeaux/events/313428518/) | 39 Rue Ausone, Bordeaux |
+| Jeudi 05 mars 2026 à 19:00 | [creative-coding-bordeaux](creative-coding-bordeaux/) | [Off-Playground - Creative Coding](https://www.meetup.com/creative-coding-bordeaux/events/313586042/) | 20 Rue Saint-François, Bordeaux |
+| Vendredi 27 mars 2026 à 09:00 | [agile-bordeaux](agile-bordeaux/) | [Agile Games France 2026 - J1](https://agilegamesfrance.fr/doku.php?id=evenement_2026) | Eklo Bordeaux 10 Rue de la Gare d'Orléans, 33100 Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
