@@ -97,9 +97,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Jeudi 05 mars 2026 à 19:00 | [creative-coding-bordeaux](creative-coding-bordeaux/) | [Off-Playground - Creative Coding](https://www.meetup.com/creative-coding-bordeaux/events/313586042/) | 20 Rue Saint-François, Bordeaux |
+| Mercredi 11 mars 2026 à 19:00 | [afup-bordeaux](afup-bordeaux/) | [#65 : SUPER APERO](https://www.meetup.com/bordeaux-php-meetup/events/313651440/) | 12 Rue des Faussets, Bordeaux |
+| Mercredi 25 mars 2026 à 19:00 | [afup-bordeaux](afup-bordeaux/) | [#66 : Introduction à la dettes non-technique](https://www.meetup.com/bordeaux-php-meetup/events/313651506/) | 12 Rue des Faussets, Bordeaux |
 | Vendredi 27 mars 2026 à 09:00 | [agile-bordeaux](agile-bordeaux/) | [Agile Games France 2026 - J1](https://agilegamesfrance.fr/doku.php?id=evenement_2026) | Eklo Bordeaux 10 Rue de la Gare d'Orléans, 33100 Bordeaux |
-| Samedi 28 mars 2026 à 09:00 | [agile-bordeaux](agile-bordeaux/) | [Agile Games France 2026 - J2](https://yp.events/eefdd201-32d4-4300-bd0f-a9423b258d89/Agile-Games-France-2026) | Eklo Bordeaux 10 Rue de la Gare d'Orléans, 33100 Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
