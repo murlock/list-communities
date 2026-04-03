@@ -97,9 +97,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Jeudi 02 avril 2026 à 18:30 | [human-talks](human-talks/) | [Human Talks x FrenchProduit Bdx - Parcours & transformations de Product Managers](https://www.meetup.com/human-talks-bordeaux/events/313793684/) | 107 Cours Balguerie Stuttenberg, Bordeaux |
-| Jeudi 02 avril 2026 à 19:00 | [bordeauxjug](bordeauxjug/) | [CQRS & Event Sourcing : La revanche des micro-services](https://www.meetup.com/bordeauxjug/events/313885181/) | 1 Avenue du Docteur Albert Schweitzer, Talence |
 | Lundi 06 avril 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/311567891/) | 9 Rue de Condé, Bordeaux |
+| Lundi 04 mai 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjchbgb/) | 9 Rue de Condé, Bordeaux |
+| Lundi 04 mai 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/313443239/) | 9 Rue de Condé, Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
