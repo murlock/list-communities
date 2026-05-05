@@ -97,9 +97,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Lundi 04 mai 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjchbgb/) | 9 Rue de Condé, Bordeaux |
-| Lundi 04 mai 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/313443239/) | 9 Rue de Condé, Bordeaux |
 | Vendredi 22 mai 2026 à 09:00 | [afup-bordeaux](afup-bordeaux/) | [AFUP Day 2026 Bordeaux](https://event.afup.org/) | TBD |
+| Lundi 01 juin 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjcjbcb/) | 9 Rue de Condé, Bordeaux |
+| Lundi 01 juin 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/314447992/) | 9 Rue de Condé, Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
